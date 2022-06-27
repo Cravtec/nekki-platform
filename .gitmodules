@@ -1,0 +1,8 @@
+[submodule "nekki-api"]
+	path = nekki-api
+	url = git@github.com:Cravtec/nekki-api.git
+	branch = main
+[submodule "nekki-front"]
+	path = nekki-front
+	url = git@github.com:Cravtec/nekki-front.git
+	branch = main
